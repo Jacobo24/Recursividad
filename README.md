@@ -22,13 +22,13 @@ Vamos a generalizar esta definición ampliándola para simplificar el problema. 
 
 Entonces reconocer un palíndromo consiste en realizar cuatro tratamientos en el texto que se analiza:
 
-filtrar el texto para conservar solo caracteres alfanuméricos;
+- filtrar el texto para conservar solo caracteres alfanuméricos;
 
-sustituir los caracteres acentuados por su equivalente sin acento;
+- sustituir los caracteres acentuados por su equivalente sin acento;
 
-sustituir cada letra por su mayúscula o minúscula;
+- sustituir cada letra por su mayúscula o minúscula;
 
-verificar que el texto filtrado es igual a su imagen reflejada.
+- verificar que el texto filtrado es igual a su imagen reflejada.
 
 Aquí podemos ver algunos ejemplos de «frases» que son palíndromos después del filtrado.
 
@@ -49,8 +49,6 @@ Oso
 Ejercicio resuelto 6: reconocer un palíndromo
 
 Hacer un algoritmo que reconozca un palíndromo.
-
-Puede encontrar una solución estudiada de este ejercicio en los complementos disponibles para descargar desde la página Información.
 
 ## 3. La bandera de Dijkstra
 Ejercicio resuelto 7: El problema de la «bandera» de Dijkstra
